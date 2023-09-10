@@ -20,8 +20,14 @@ const pg = require('pg')
 
 //postgres://selpro:KoXxDVLtk5ZFVFdhSK91amA7gOzEqRr5@dpg-cjrv800jbais7391q3v0-a/selpro_n8dc
 
+//selpro-info
 
-const sequelize = new Sequelize(`postgres://selpro:KoXxDVLtk5ZFVFdhSK91amA7gOzEqRr5@dpg-cjrv800jbais7391q3v0-a/selpro_n8dc`, {
+//postgres://selpro:PwdybbZWgkerEmlbaf8vS62dFizxXMFw@dpg-cjv4ar95mpss7394nt10-a.oregon-postgres.render.com/selpro_q6z8
+
+//postgres://selpro:PwdybbZWgkerEmlbaf8vS62dFizxXMFw@dpg-cjv4ar95mpss7394nt10-a/selpro_q6z8
+
+
+const sequelize = new Sequelize(`postgres://selpro:PwdybbZWgkerEmlbaf8vS62dFizxXMFw@dpg-cjv4ar95mpss7394nt10-a/selpro_q6z8`, {
 	logging: false,
 	native: false,
 	dialectOptions: {
