@@ -1,0 +1,14 @@
+{
+  "bidIvertAuction":{
+    "auction_id": "0874e064-985a-4e34-9a47-c305485187d7",
+		"proposed_price":30,
+		"invert":  true,
+		"proposed_amount": 10,
+		"user_id":"cada8cea-bb8b-49ca-8fec-89e49324ba6c"
+  },
+  "bidAuction":{
+    "auction_id": "9ec92f3b-72ba-40ea-906f-9ec95799e7db",
+    "proposed_price":450,
+    "user_id":"372cc2ad-36d4-4ab9-998a-17ccb559b526"
+  }
+}

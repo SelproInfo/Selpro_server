@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "product_id": "VS21",
+      "target_quantity": 200,
+      "desired_price": 400,
+      "close_date": "2023-10-22T15:30:00.000Z"
+    },
+    {
+      "product_id": "PC51",
+      "target_quantity": 20,
+      "desired_price": 7000,
+      "close_date": "2023-10-22T15:30:00.000Z"
+    }
+  ]
+}

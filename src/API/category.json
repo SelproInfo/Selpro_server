@@ -1,0 +1,48 @@
+{"category": "Seguridad Presonal",
+        "data": [
+            {
+                "id": "AD",
+                "name": "Auditiva"
+            },
+            {
+                "id": "AB",
+                "name": "Abrasivos"
+            },
+            {
+                "id": "CC",
+                "name": "Cabeza y cara"
+            },
+            {
+                "id": "CP",
+                "name": "Cuerpo"
+            },
+            {
+                "id": "MN",
+                "name": "Manos"
+            },
+            {
+                "id": "OT",
+                "name": "Otros"
+            },
+            {
+                "id": "PC",
+                "name": "Protección Caidas"
+            },
+            {
+                "id": "PL",
+                "name": "Productos Limpieza"
+            },
+            {
+                "id": "PS",
+                "name": "Pies"
+            },
+            {
+                "id": "RS",
+                "name": "Respiratoria"
+            },
+            {
+                "id": "VS",
+                "name": "Visual"
+            }
+        ]
+    }

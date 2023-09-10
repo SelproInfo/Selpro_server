@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "name": "Gafa Transparente",
+      "brand": "3M",
+      "image": "https://cdn.discordapp.com/attachments/1138194511974105088/1144636589654417478/FOTO_3M-GAFA_TRANSPARENTE_11-329.JPG",
+      "description": "Gafas transparentes marca 3M modelo 11-329",
+      "datasheet": "https://cdn.discordapp.com/attachments/1138194511974105088/1144636609514442822/FICHA_3M-GAFA_TRANSPARENTE_11-329.PDF",
+      "rating": 2,
+      "ref_subCategory": "VS2",
+      "user_id": "2a1f57da-949f-4ddf-92e0-a02c1b163acd"
+    },
+    {
+      "name": "Arnes Dielectrico",
+      "brand": "Armadura",
+      "image": "https://cdn.discordapp.com/attachments/1138194511974105088/1144642918112563302/FOTO_ARMADURA_ARNES_DIELECTRICO_A-0350D.JPG",
+      "description": "Arnes dielectrico marca armadura modelo A-0350D",
+      "datasheet": "https://cdn.discordapp.com/attachments/1138194511974105088/1144642944721244170/FICHA_ARMADURA_ARNES_DIELECTRICO_A-0350D.PDF",
+      "rating": 3,
+      "ref_subCategory": "PC5",
+      "user_id": "2a1f57da-949f-4ddf-92e0-a02c1b163acd"
+    }
+  ]
+}

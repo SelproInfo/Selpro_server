@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "product_id": "VS21",
+      "base_price": 300,
+      "sale_price": 500,
+      "close_date": "2023-10-22T00:00:00.000Z",
+      "stock": 700,
+      "user_id": "2a1f57da-949f-4ddf-92e0-a02c1b163acd"
+    },
+    {
+      "product_id": "PC51",
+      "base_price": 5000,
+      "sale_price": 8000,
+      "close_date": "2023-10-22T00:00:00.000Z",
+      "stock": 500,
+      "user_id": "2a1f57da-949f-4ddf-92e0-a02c1b163acd"
+    }
+  ]
+}

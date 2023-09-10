@@ -1,0 +1,50 @@
+{
+  "client": {
+    "name": "SelPro Client 1",
+    "num_ident": "123456789-0",
+    "user_name": "SelPro_Test_Cl2",
+    "phone": "+5493516234565",
+    "email": "usuario1@example.com",
+    "adress": ["Example City2", "Example Street2", 452],
+    "company_name": "SelPro_Company_Test5",
+    "NIT": "123456789-0",
+    "sector": "SelPro_Sector_Test2",
+    "CIIU": 5678,
+    "id_subcat": ["CC1", "AB1"]
+  },
+  "client2": {
+    "name": "Jeremias Floriciento",
+    "num_ident": "987654321-0",
+    "user_name": "JereTuFlorcita",
+    "phone": "+5493515635948",
+    "email": "tuflorcita99@example.com",
+    "adress": ["Example City2", "Example Street2", 6969],
+    "company_name": "Floricienta S.R.L.",
+    "NIT": "987654321-0",
+    "sector": "SelPro_Sector_Test2",
+    "CIIU": 5678,
+    "id_subcat": ["CC1", "AB1"]
+  },
+  "putroute": {
+    "name": "Paula Raquel Arce",
+    "num_ident": "123456779-0",
+    "user_name": "raquelita99",
+    "phone": "+5493515123456",
+    "email": "paularaquel@usuario.com",
+    "adress": ["Grand Line", "Dressrosa", "Flower Street", 550],
+    "company_name": "Zorojuro S.R.L.",
+    "NIT": "123456789-0",
+    "sector": "Information Technology",
+    "CIIU": 6201,
+    "id_subcat": ["OT5", "CC1"],
+    "image": "https://cdn.discordapp.com/attachments/1138194511974105088/1144689227435610152/empresa-imagen.png",
+    "RUT_image": "https://cdn.discordapp.com/attachments/1138194511974105088/1144687076839788656/rut.pdf",
+    "commerce_chamber": "https://cdn.discordapp.com/attachments/1138194511974105088/1144687102190174358/Formulario_rues_2020_2.pdf",
+    "legal_ident": "https://cdn.discordapp.com/attachments/1138194511974105088/1144687112562679808/Criterio-de-Interpretacion-01-19-Datos-de-identificacion-del-representante-o-apoderado-legal.pdf",
+    "commercial_references": "https://cdn.discordapp.com/attachments/1138194511974105088/1144687125464371260/formulario-9_cerca_perimetral_edificio-1013-referencia_comercial.pdf",
+    "interaction_history": "1628a3a0-c615-417b-9a9e-3dab6c374cd7",
+    "created_history": "54d9fc6e-f3ef-4ff9-bd2c-627f60203c12",
+    "favorites": "db6a3244-a3a7-4651-bdc2-a124a5f8459b",
+    "supplier": true
+  }
+}

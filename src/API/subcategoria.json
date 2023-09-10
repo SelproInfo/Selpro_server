@@ -1,0 +1,131 @@
+{
+    "category": "Seguridad Personal",
+    "data": [
+        {
+            "id_category": "AB",
+            "name": [
+                "Discos Abrasivos"
+            ]
+        },
+        {
+            "id_category": "AD",
+            "name": [
+                "Tapones incersión",
+                "Tapa orejas copa",
+                "Accesorios Tapa orejas Copa"
+            ]
+        },
+        {
+            "id_category": "CC",
+            "name": [
+                "Careta",
+                "Accesorios Careta",
+                "Casco (menos soldadura)",
+                "Accesorios Cascos",
+                "Cascos soldadura respiratorios",
+                "Sistemas de casco de soldadura respiratorio",
+                "Cascos soldadura sin respiratorio",
+                "Piezas y accesorios de soldadura",
+                "Gorro oruga"
+            ]
+        },
+        {
+            "id_category": "CP",
+            "name": [
+                "Ropa quirurgica",
+                "Kimono peluqueria",
+                "Overol",
+                "Delantal y similares de carnaza o cuero",
+                "Traje dos piezas"
+            ]
+        },
+        {
+            "id_category": "MN",
+            "name": [
+                "Guante de latex médico/belleza",
+                "Guantes nitrilo médico/belleza",
+                "Guante vinilo médico/belleza",
+                "Guante de latex industrial",
+                "Guantes nitrilo industrial",
+                "Guante vinilo industrial",
+                "Guante vaqueta (Cuero o Carnaza)",
+                "Guante malla metálica",
+                "Guante tejido sintético y de material mesclado",
+                "Protector de Brazo",
+                "Guante brazo completo"
+            ]
+        },
+        {
+            "id_category": "OT",
+            "name": [
+                "Resmas de papel blanco",
+                "Cintas de Seguridad",
+                "Protección Piel (Cremas, Unguentos y Aceites).",
+                "Repelente Insectos Piel.",
+                "Kit Electricista"
+            ]
+        },
+        {
+            "id_category": "PC",
+            "name": [
+                "Mosquetones y otros accesorios",
+                "Arneses de cuerpo entero",
+                "Trípodes y otras estructuras fijas",
+                "Cinturones corporales",
+                "Anclajes y adaptadores de anclaje",
+                "Eslingas con absorvente",
+                "Eslinga Posicionamiento",
+                "Líneas de vida autorretráctiles",
+                "Accesorios líneas de vida",
+                "Accesorios del sistema de escalera",
+                "Líneas de vida horizontales",
+                "Líneas de vida verticales",
+                "Dispositivos de rescate y descenso"
+            ]
+        },
+        {
+            "id_category": "PL",
+            "name": [
+                "Limpiones",
+                "Jabones y desengrasantes",
+                "Papel higiénico"
+            ]
+        },
+        {
+            "id_category": "PS",
+            "name": [
+                "Polainas Carnaza",
+                "Bota cuero caña alta",
+                "Bota cuero caña baja",
+                "Bota sintética caña alta",
+                "Bota sintética caña baja",
+                "Botas PVC o caucho",
+                "Protección Rodillas"
+            ]
+        },
+        {
+            "id_category": "RS",
+            "name": [
+                "Respiradores Desechables (Tapabocas)",
+                "Respiradores Eléctricos y con suministro de aire",
+                "Capuchas y accesorios cabeza",
+                "Piezas y accesorios con suministro de aire y alimentación",
+                "Sistemas de respiración con suministro de aire",
+                "Respiradores de cara completa",
+                "Respiradores de media Máscara-Respirador",
+                "Accesorios y repuestos respiradores reutilizables",
+                "Cartucho-Filtros",
+                "Respiradores de cara completa",
+                "Respiradores de media Máscara-Respirador"
+            ]
+        },
+        {
+            "id_category": "VS",
+            "name": [
+                "Monogafa-Goggle (Goggle)",
+                "Gafa Sencilla",
+                "Accesorios Lente-Gafa de Protección"
+            ]
+        }
+    ]    
+}
